@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TeleTaxiConsole</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="id_taxi">Identificativo Taxi</string>
+    <string name="confirm">Conferma</string>
+    <string name="cancel">Annulla</string>
+    <string name="state">Cambia lo stato del taxi</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Prenotazione</string>
+</resources>
